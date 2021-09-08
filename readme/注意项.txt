@@ -1,0 +1,9 @@
+﻿1.在项目文件下，点击地址栏全选，输入cmd.exe 打开cmd命令窗口，就在当前文件夹下
+
+2. npm run dev 启动项目  默认是不自动打开浏览器的
+
+3.启动项目默认让它自动打开浏览器可以设置配置文件E:\MyVueProject\hong\config\index.js  autoOpenBrowser 改成true
+
+4.App.vue 项目跟文件  main.js  项目入口文件    router/index.js 路由
+
+5.通过命令下载 axios     当前项目  cnpm install axios
